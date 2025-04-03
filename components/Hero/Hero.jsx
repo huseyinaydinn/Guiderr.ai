@@ -1,7 +1,7 @@
 import React from 'react'
 import { Lora } from "next/font/google";
 import Image from "next/image";
-import HeroImage from "@/public/Hero.svg"
+import HeroImage from "@/public/HeroImage.png"
 import { CiMail } from "react-icons/ci";
 import ExploreDecore from "@/public/Decore.svg"
 import PlaneDecore from "@/public/plane.svg"
